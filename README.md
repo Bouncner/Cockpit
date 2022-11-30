@@ -1,4 +1,4 @@
-**This repository is no longer maintained.**
+# _**This repository is no longer maintained.**_
 
 
 # Hyrise Cockpit
